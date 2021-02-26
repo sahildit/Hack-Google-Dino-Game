@@ -1,0 +1,9 @@
+-> First Open type chrome://dino in your google chrome window
+-> Then, Press Ctrl + I to inspect
+-> Go in to console and type this command
+-> Runner.instance_.gameOver = () => {}
+-> hit "enter"
+-> back to the game and you are ready to make high score.
+
+
+This repository was only created for fun learning purposes.
